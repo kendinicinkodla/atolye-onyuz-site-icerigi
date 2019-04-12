@@ -1,0 +1,29 @@
+Tanıtım:
+	Balina yaşamını tamamen suda sürdüren ve yaygın olarak dünya okyanuslarında bulunan farklı çok sayıda türden oluşan plasentalı deniz memelileridir. Balinalar, yunuslar ve musurlar çift toynaklılarla birlikte Cetartiodactyla takımında yer alırlar.
+
+İkinci paragraf: Ömür
+	Farklı türlerinin farklı yaşam süreleri vardır. Katil balinaların yaşam süresi 29 yıl iken mavi balinalar 80-110 yıl arasında yaşayabilmektedirler.
+
+İlginç bilgi: 
+	Mavi balinalar dünyada şu zamana kadar yaşamış en büyük hayvanlardır. Dilleri bir fil kadar ağır olmakla birlikte kalplerinin boyutu yaklaşık bir araba boyutundadır.
+
+  Link: https://onekindplanet.org/animal/whale-blue/
+
+Liste: Türler
+	Katil balina
+	Grönland balinası
+	Beyaz balina
+	Mavi balina
+	Kaşalot
+	Deniz gergedanı
+
+Tablo: Sınıflandırma
+  Alem: Hayvanlar
+  Şube: Kordalılar
+  Sınıf: Memeliler
+  Takım: Çift toynaklılar
+  Familya: Gerçek balinagiller
+  Cins: Balaena
+
+Ek bölüm: Beslenme
+	Deniz tabanında genellikle kabukluları ve bentik omurgasızları yiyerek beslenirler. Deniz tabanında yana dönerek sediment ile karışık suyu ağızlarına alırlar ve balina çubuğu sayesinde suyu süzerek dışarı atarlar; avları da ağızlarında kalır. 

@@ -1,0 +1,30 @@
+Tanıtım:
+	Flamingolar, uzun ve ince bacaklara, yine uzun, eğri bir boyuna ve rosa rengi tüylere sahip kuşlardır. Flamingo, flamingolar takımının flamingogiller familyasından Phoenicopterus cinsini oluşturan 6 kuş türünün ortak adıdır.
+
+İkinci paragraf: Ömür
+	Türlerine göre yaşam süreleri değişmekle birlikte, bu süre ortalam 20-30 yıl arasıdır. 
+
+İlginç bilgi:
+	Flamingo'nun tüylerinin pembe ila kırmızımsı rengi, plankton, salamura karides ve mavi-yeşil alglerden aldıkları karotenoidlerden (havuçları turuncu yapan pigment) gelir.
+
+  Link: http://www.sciencekids.co.nz/sciencefacts/animals/flamingo.html
+
+Liste: Türler
+	Büyük flamingo
+	Küçük flamingo
+	Şili flamingosu
+	James'in flamingosu
+	And dağı flamingosu
+	Amerikan flamingosu
+
+Tablo: Sınıflandırma
+  Alem: Hayvanlar
+  Şube: Kordalılar
+  Sınıf: Kuşlar
+  Takım: Flamingogiller
+  Familya: Flamingolar
+  Cins: Büyük flamingo
+
+Ek bölüm: Beslenme
+	Genelde flamingolar, yengeç, artemia, karides gibi hayvanların yanında, karınca larvası, ve yosun yiyerek beslenirler. Aşağı doğru eğik ve kalın uçlu, sağlam gagaları sayesinde en zor koşulda bile yiyeceklerine kolayca ulaşabilirler.
+

@@ -1,0 +1,35 @@
+Tanıtım:
+	Penguengiller (Spheniscidae) familyasını oluşturan, uçamayan, dimdik durabilen, perde ayaklı deniz kuşlarıdır. Güney Kutbu, Yeni Zelanda, Avustralya, Güney Amerika, Güney Afrika ve hatta Galapagos kıyılarında yaşarlar. Kuzey Kutbunda bulunmazlar.
+
+İkinci Paragraf: Ömür
+	Penguenlerin ortalama yaşam süresi 6.5 yıldır. Bununla birlikte	İmparator penguenlerin ortalama yaşam sürelerinin 20 yıl olduğu bilinmektedir.
+	
+İlginç Bilgi:
+	Tüy dökerler ancak diğer kuşlar gibi yeni tüyler hemen çıkmaz, bir süre tüysüz yaşarlar. Bu süreçte yüzemez ve avlanamazlar. Tüy dökme öncesi şişmanlamaya çalışırlar ki bu süreci atlatabilsinler.
+
+Link: http://www.bilgiler.gen.tr/penguenler-hakkinda-bilgiler.html
+
+Liste: Türler
+	İmparator Penguen
+	Kral Penguen
+	Makaroni Pengueni
+	Kraliyet Pengueni
+	Galapagos Pengueni
+	Küçük Penguen
+	Sarı Gözlü Penguen
+	Dik Sorguçlu Penguen
+	Macellan Pengueni
+	Fiordlan Pengueni
+	Snares Pengueni
+	Humboldt Pengueni
+
+Tablo: Sınıflandırma
+	Alem: Hayvanlar
+  	Şube: Kordalılar
+  	Sınıf: Kuşlar
+  	Takım: Penguenler
+  	Familya: Penguengiller
+  	Cins: Büyük Penguenler
+
+Ek Bölüm: Beslenme
+	Penguenler denizlerdeki kabuklular, balık ve mürekkepbalıkları,karides,denizanası ve yengeçler ile beslenirler.

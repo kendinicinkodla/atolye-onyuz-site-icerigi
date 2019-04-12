@@ -1,0 +1,26 @@
+Tanıtım:
+	Koala, Avustralya'ya özgü otçul ve ağaçta yaşayan bir keseli memeli hayvan türüdür. Phascolarctidae familyasının yaşayan tek temsilcisidir ve en yakın akrabaları vombatlardır. Koala, Avustralya'nın doğu ve güney kıyıları boyunca Queensland, Yeni Güney Galler, Victoria ve Güney Avustralya'da bulunur.
+
+İkinci paragraf: Ömür
+	Türlerine göre yaşam süreleri değişmekle birlikte doğada 13-18 yıl yaşadıkları bilinmektedir.
+
+İlginç bilgi:
+	Joey denilen bebek koala doğduğunda, hemen annesinin kesesine tırmanıyor. Kör ve kulaksız, bir joey yolunu bulmak için güçlü dokunma ve koku alma duyusunun yanı sıra doğal içgüdüleri kullanır.
+
+  Link: https://www.natgeokids.com/uk/discover/animals/general-animals/ten-facts-about-koalas/
+
+Liste: Türler
+	Victorian Koala
+	Queensland Koala
+	New South Wales Koala
+
+Tablo: Sınıflandırma
+  Alem: Hayvanlar
+  Şube: Kordalılar
+  Sınıf: Memeliler
+  Takım: Diprotodontia 
+  Familya: Koalalar
+  Cins: Koala
+
+Ek bölüm: Beslenme
+	Dünya’da sadece Avustralya’da yaşayan koalaların yaşam kaynağı okaliptus ağacıdır. sadece okaliptus yapraklarıyla beslenir ve sıvı ihtiyacını da bu ağacın yapraklarının üzerindeki çiğ damlalarından giderir.

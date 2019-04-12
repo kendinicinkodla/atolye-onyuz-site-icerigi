@@ -1,0 +1,32 @@
+Tanıtım: 
+	Denizanası, serbestçe yüzen ve beyni bulunmayan deniz canlısıdır. Denizanaları, yassılaşmış ve yüzmeye uyum yapmış varlıklar olarak tanımlanabilirler. Vücut şekli çoğunlukla yayvan ya da kubbeli bir şemsiye şeklindedir.
+
+İkinci paragraf: Ömür
+	Türlerine göre yaşam süreleri değişen denizanalarının ortalama yaşam süresi 6 ay ile 12 ay arasındadır. 
+
+İlginç bilgi:
+	"Turritopsis Nutricula" türüne ait denizanaları sadece 5 milimetre çapındadır ancak ABD'de yapılan bir deney sonucu ölümsüz oldukları keşfedilmiştir. Ölümsüzlüğe ulaşabilmesinin tek yolu, dışarıdan gelecek fiziksel tehlikelerden kaçınabilmesi. Bunu başarabildiği takdirde sonsuza kadar yaşayabileceği varsayılıyor.
+
+  Link: http://www.hurriyet.com.tr/teknoloji/olumsuz-tek-canli-14771435
+
+Liste: Türler
+	Göçmen Denizanası
+	Ters-düz Denizanası 
+	Beyaz Noktalı Denizanası 
+	Ay Denizanası
+	Mor Çizgili Denizanası 
+	Pusula Denizanası
+	Maviş Denizanası 
+	Deniz Ciğeri Denizanası
+
+Tablo: Sınıflandırma
+  Alem: Hayvanlar
+  Şube: Knidliler
+  Sınıf: Scyphozoa 
+  Takım:  Coronatae
+  Familya: Atollidae
+  Cins: Atolla
+
+Ek bölüm: Beslenme
+	Denizanası, küçük bitkiler, kabuklu zooplankton, balık yumurtası ve larva adı verilen diğer küçük balıklar gibi pek çok farklı türü yerler; planktonik yumurtaları ve çok çeşitli deniz hayvanlarının genç evrelerini yerler. Bazı denizanaları diğer denizanasını bile yer.
+
